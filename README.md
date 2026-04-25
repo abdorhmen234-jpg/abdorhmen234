@@ -34,7 +34,7 @@
 ## 🖼️ AI Illustration
 
 <div align="center">
-  <img src="https://i.imgur.com/AI-brain.gif" width="500"/>
+  <img src="https://bigblue.academy/images/image/blog/ai-engineer/group-157.jpg" width="500"/>+
 </div>
 
 ## 🧬 Who Am I In Code?
