@@ -32,8 +32,7 @@
 
 ## 🖼️ AI Illustration
 
-![AI Engineer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
+![AI Engineer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ## 🧬 Who Am I In Code?
