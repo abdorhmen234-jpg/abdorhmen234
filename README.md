@@ -34,7 +34,7 @@
 ## 🖼️ AI Illustration
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
 ## 🧬 Who Am I In Code?
