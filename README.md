@@ -32,8 +32,7 @@
 
 ## 🖼️ AI Illustration
 
-![AI](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
-
+![AI](https://miro.medium.com/v2/resize:fit:1400/1*9EBHIOzhE1XfMYoKz1JcsQ.gif)
 
 ## 🧬 Who Am I In Code?
 
