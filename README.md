@@ -33,8 +33,6 @@
 ## 🖼️ AI Illustration
 
 ![AI Engineer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
----
-
 ## 🧬 Who Am I In Code?
 
 ```python
