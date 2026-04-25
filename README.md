@@ -78,6 +78,49 @@ class AbdelrhmanAhmed:
 ![Networking](https://img.shields.io/badge/Networking-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00d4ff)
 ![Databases](https://img.shields.io/badge/Databases-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
 
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdorhmen234&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorhmen234&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&title_color=00d4ff&text_color=ffffff&border_color=00d4ff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdorhmen234&theme=highcontrast&background=0a0a0a&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border=00d4ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+| 🧩 Area | 💡 Description |
+|---|---|
+| 🤖 **LLM Apps** | Custom AI applications powered by large language models |
+| 🔍 **RAG Systems** | Retrieval-Augmented Generation pipelines for smart search |
+| 🗂️ **Vector Search** | Semantic search using embeddings & vector databases |
+| ⚙️ **AI Automation** | Workflow automation with n8n + AI integrations |
+| 🐳 **Deployment** | Dockerized AI services with clean API interfaces |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0a0a0a&height=100&section=footer&animation=twinkling"/>
+
+**"Intelligence is not artificial — it's engineered." 🤖⚡**
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdorhmen234&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
 </div>
 
 ---
