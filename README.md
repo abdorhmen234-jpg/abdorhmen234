@@ -34,7 +34,7 @@
 ## 🖼️ AI Illustration
 
 <div align="center">
-  <img src="https://bigblue.academy/images/image/blog/ai-engineer/group-157.jpg" width="500"/>+
+  <img src="https://bigblue.academy/images/image/blog/ai-engineer/group-157.jpg" width="500"/>
 </div>
 
 ## 🧬 Who Am I In Code?
@@ -114,7 +114,7 @@ class AbdelrhmanAhmed:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0a0a0a&height=100&section=footer&animation=twinkling"/>
+## <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0a0a0a&height=100&section=footer&animation=twinkling"/>
 
 **"Intelligence is not artificial — it's engineered." 🤖⚡**
 
