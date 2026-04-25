@@ -1,66 +1,85 @@
-# Hi there 👋
+<div align="center">
 
-## 🚀 I'm Abdelrhman Ahmed  
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:00d4ff&height=200&section=header&text=Abdelrhman%20Ahmed&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI%20%26%20LLM%20Engineer&descAlignY=75&descSize=20&descColor=00d4ff" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+%26+LLM+Engineer;🧠+Building+Intelligent+Systems+with+RAG+%26+Agents;⚡+Turning+Ideas+into+AI-Powered+Solutions)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👋 Hi there!
+
+## 🔥 I'm Abdelrhman Ahmed
 ### AI Engineer | LLM Developer 🤖
 
 ---
 
-## 🧠 About Me
-- 💡 Passionate about AI, LLMs & Automation  
-- 🔥 Building intelligent systems & AI Agents  
-- 📚 Always learning and improving  
-- 🎯 Goal: Become a top AI Engineer  
+## 💡 About Me
+
+- 🧠 Passionate about AI, LLMs & Automation
+- 🔧 Building intelligent systems & AI Agents
+- 📚 Always learning and improving
+- 🎯 Goal: Become a top AI Engineer
 
 ---
 
 ## 🖼️ AI Illustration
+
 ![AI Engineer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧬 Who Am I In Code?
 
-### 🤖 AI & Machine Learning
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-black?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-blue?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-green?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector%20DB-orange?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-red?style=for-the-badge)
+```python
+class AbdelrhmanAhmed:
+    name       = "Abdelrhman Ahmed"
+    role       = "AI & LLM Engineer"
+    focus      = ["LLM Apps", "RAG Systems", "AI Agents", "Automation"]
+    currently  = "Building AI-powered solutions 🚀"
+    contact    = "Open to collaborations & opportunities"
 
----
-
-### 💻 Programming & Core Skills
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-yellow?style=for-the-badge)
-![File Handling](https://img.shields.io/badge/File%20Handling-lightgrey?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-darkgreen?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-teal?style=for-the-badge)
+    def greet(self):
+        return "Let's build something intelligent together! 🤖"
+```
 
 ---
 
-### 🌐 Web & Systems
-![Web Development](https://img.shields.io/badge/Web-black?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-blueviolet?style=for-the-badge)
+## ⚡ Tech Stack & Skills
+
+<div align="center">
+
+### 🤖 AI / LLM
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00d4ff)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-0a0a0a?style=for-the-badge&logo=openai&logoColor=00d4ff)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0a0a0a?style=for-the-badge&logo=openai&logoColor=00d4ff)
+![RAG](https://img.shields.io/badge/RAG%20Systems-0a0a0a?style=for-the-badge&logo=elasticsearch&logoColor=00d4ff)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-0a0a0a?style=for-the-badge&logo=pinecone&logoColor=00d4ff)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=00d4ff)
+
+### 🛠️ Engineering
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00d4ff)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00d4ff)
+![APIs](https://img.shields.io/badge/REST%20APIs-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
+![N8N](https://img.shields.io/badge/n8n%20Automation-0a0a0a?style=for-the-badge&logo=n8n&logoColor=00d4ff)
+
+### 💻 Core CS
+![OOP](https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=00d4ff)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0a0a0a?style=for-the-badge&logo=hackerrank&logoColor=00d4ff)
+![Networking](https://img.shields.io/badge/Networking-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00d4ff)
+![Databases](https://img.shields.io/badge/Databases-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
+
+</div>
 
 ---
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: your@email.com
+## 🧠 AI Architecture I Work With
