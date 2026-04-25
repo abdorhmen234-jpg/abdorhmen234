@@ -32,7 +32,7 @@
 
 ## 🖼️ AI Illustration
 
-![AI](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![AI](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
 
 ## 🧬 Who Am I In Code?
